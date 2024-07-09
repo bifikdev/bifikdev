@@ -7,6 +7,13 @@
 - PHP
 - JavaScript
 
+Изученные Framework:
+- SLIM
+- Yii2
+
+Документирование:
+- PlantUML
+
 Базы данных:
 - MySQL
 - MSSQL
