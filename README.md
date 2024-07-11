@@ -34,7 +34,8 @@
 &nbsp;
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original-wordmark.svg" />
 &nbsp;
-          
+
+## Текстово про навыки
 Программирование:
 - PHP - Уверенный навык, разбираюсь с паттернами
 - JavaScript - Уверенный навык, читаю / понимаю код, могу написать что-то простое
