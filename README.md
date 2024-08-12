@@ -23,6 +23,9 @@
 Базы данных:
 - MySQL
 - MSSQL
+- Firebird
+- SQLite
+- MongoDB
 
 Среды для работы:
 - Docker
